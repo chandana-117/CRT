@@ -4,3 +4,5 @@ def reverse_number(n: int) -> int:
 if __name__ == "__main__":
     n = int(input())
     print(reverse_number(n))
+
+print("updated")
