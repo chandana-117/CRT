@@ -4,3 +4,4 @@ def sum_of_digits(n: int) -> int:
 if __name__ == "__main__":
     n = int(input())
     print(sum_of_digits(n))
+print("updated")
